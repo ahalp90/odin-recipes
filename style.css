@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FDEDD6;
+}
+
+.page-headings {
+    padding: 1em;
+    background-color: ;
+    margin: 0;
+    text-align: center;
+    background-color: #FDD365;
+}
+
+li {
+    margin-bottom: 1em;   
+}
+
+.index-list {
+    padding: 1em 25%;
+}
+
+.index-list a {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bold;
+    color: #333333;
+}
+
+#meatball-chef-img {
+    display: block;
+    margin: 40px auto
+}
+
+.home-link-container {
+    text-align: center;
+}
+
+.home-link {
+    margin: 3em 2em 2em;
+    padding: 10px;
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bold;
+    color: #333333;
+}
+
+.recipe-principal-photo {
+    display: block;
+    margin: 20px auto    
+}
+
+.recipe-descriptions,
+.recipe-ingredients,
+.recipe-instructions {
+    margin-left: 2em;
+    margin-right: 20%
+}
+
